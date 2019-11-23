@@ -1,0 +1,16 @@
+{
+    "name": "express_learning",
+    "version": "1.0.0",
+    "description": "Node Express lerning",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index"
+    },
+    "author": "shekhar",
+    "license": "ISC"
+}
